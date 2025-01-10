@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "smiles"
+name = "jump-smiles"
 version = "0.0.0"
 description = ""
 readme = "README.md"
